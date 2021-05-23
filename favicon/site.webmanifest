@@ -2,9 +2,9 @@
   "name": "來點檸檬酒",
   "short_name": "來點檸檬酒",
   "icons": [{
-    "src": "/img/main/logo.jpg",
+    "src": "/img/main/logo.svg",
     "sizes": "1000x1000",
-    "type": "image/png"
+    "type": "svg/image/png"
   }],
   "start_url": "/home/",
   "display": "standalone",
