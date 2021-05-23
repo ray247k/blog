@@ -1,0 +1,14 @@
+{
+  "name": "來點檸檬酒",
+  "short_name": "來點檸檬酒",
+  "icons": [{
+    "src": "/img/main/logo.jpg",
+    "sizes": "1000x1000",
+    "type": "image/png"
+  }],
+  "start_url": "/home/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f5f5",
+  "theme_color": "#2eb8ac"
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>來點檸檬酒</title>
+    <link>https://blog.ray247k.com/</link>
+    <description>Recent content on 來點檸檬酒</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-TW</language>
+    <lastBuildDate>Fri, 02 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.ray247k.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[閱讀紀錄] 賺錢，更賺自由的 FIRE 理財族</title>
+      <link>https://blog.ray247k.com/blog/202104-%E8%B3%BA%E9%8C%A2%E6%9B%B4%E8%B3%BA%E8%87%AA%E7%94%B1%E7%9A%84-fire-%E7%90%86%E8%B2%A1%E6%97%8F/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.ray247k.com/blog/202104-%E8%B3%BA%E9%8C%A2%E6%9B%B4%E8%B3%BA%E8%87%AA%E7%94%B1%E7%9A%84-fire-%E7%90%86%E8%B2%A1%E6%97%8F/</guid>
+      <description>&lt;p&gt;很多人的夢想是邁向財務自由，擺脫被生活綁住的生活。但是要存多少錢才能稱為財富自由呢？一千萬？兩千萬？&lt;br&gt;
+真正的問題是「錢與人生的關係」弄清楚這點，可能不需要這麼多錢就可以退休&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>[閱讀紀錄] 任何人都適用的完美學習法</title>
+      <link>https://blog.ray247k.com/blog/202103-%E4%BB%BB%E4%BD%95%E4%BA%BA%E9%83%BD%E9%81%A9%E7%94%A8%E7%9A%84%E5%AE%8C%E7%BE%8E%E5%AD%B8%E7%BF%92%E6%B3%95/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.ray247k.com/blog/202103-%E4%BB%BB%E4%BD%95%E4%BA%BA%E9%83%BD%E9%81%A9%E7%94%A8%E7%9A%84%E5%AE%8C%E7%BE%8E%E5%AD%B8%E7%BF%92%E6%B3%95/</guid>
+      <description>&lt;p&gt;從小不停的考試，你真的掌握了學習的方法嗎？真的有任何人都適用的完美學習法嗎？如果有，那又該如何掌握呢？&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://blog.ray247k.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.ray247k.com/about/</guid>
+      <description>分享生活想法，</description>
+    </item>
+    
+  </channel>
+</rss>
