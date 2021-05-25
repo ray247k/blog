@@ -1,22 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on 來點檸檬酒</title>
-    <link>https://blog.ray247k.com/blog/</link>
-    <description>Recent content in Blog on 來點檸檬酒</description>
+    <title>閱讀紀錄 on 來點檸檬酒</title>
+    <link>https://blog.ray247k.com/tags/%E9%96%B1%E8%AE%80%E7%B4%80%E9%8C%84/</link>
+    <description>Recent content in 閱讀紀錄 on 來點檸檬酒</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 25 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.ray247k.com/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>自我介紹的技術</title>
-      <link>https://blog.ray247k.com/blog/202105-how-to-introduction-yourself/</link>
-      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.ray247k.com/blog/202105-how-to-introduction-yourself/</guid>
-      <description>&lt;p&gt;無法讓觀眾產生迴響的人，介紹的是【自己】&lt;br&gt;
-可以打動觀眾的人，介紹的是【未來】&lt;/p&gt;</description>
-    </item>
-    
+    <lastBuildDate>Fri, 02 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.ray247k.com/tags/%E9%96%B1%E8%AE%80%E7%B4%80%E9%8C%84/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[閱讀紀錄] 賺錢，更賺自由的 FIRE 理財族</title>
       <link>https://blog.ray247k.com/blog/202104-playing-with-fire-financial-independence-retire-early/</link>
