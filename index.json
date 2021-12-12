@@ -1,4 +1,10 @@
 [{
+    "title": "[日本語勉強中] 10 學校裡的地點",
+    "date": "",
+    "description": "個人日文筆記 - 第十課 - 學校裡的地點",
+    "body": "介紹在學校裡常見的地點\n文法 1.ここ・そこ・あそこ ここ、そこ、あそこ是日語中指代地點和場所的代詞，意思分別為「這裡、那裡、那裡」\n在對話中分別代表了該場所和說話人、聽話人的位置關係，和之前對物品一樣概念\n   日語 翻譯 說明     koko ここ 這裡 場所離「說話人」比較近   soko そこ 那裡 場所離「聽話人」比較近   asoko あそこ 那裡 離說話人和聽話人雙方都遠的場所    在對話裡，說話人和聽話人在對同一個場所使用 ここ、そこ 時，一般是交替使用的\n比如一個教室，如果離說話人更近，該說話人會使用 ここ(koko)，而聽話人會使用 そこ(soko)\n如果離聽話人更近，則說話人會使用 そこ(soko)，聽話人會用 ここ(koko)\n使用 あそこ(asoko) 時，因雙方立場一致，都會使用 あそこ(asoko)\n2.どこ 對場所和地點進行提問的特殊疑問詞，意思為「哪裡」\n它和 か 共同構成對「地點」進行提問的特殊疑問句\n   日語 翻譯     koko wa doko desu ka ここはどこですか。 這裡是哪裡？   gakkou wa doko desu ka 学校はどこですか。 學校在哪裡？   asoko wa doko desu ka あそこはどこですか。 那裡是哪裡？    どこ 和 ここ、そこ、あそこ 構成一個完整系列\n ここ・そこ・あそこ・どこ\n 本課單字    日文 發音 翻譯     教室 kyo u shi tsu きょうしつ 教室   図書館 to sho ka n としょかん 圖書館   トイレ to i re といれ 廁所、洗手間   家 i e いえ 家   会議室 ka i gi shi tsu かいぎしつ 會議室   事務室 ji mu shi tsu じむしつ 辦公室   ",
+    "ref": "/blog/202112-learn-japanese-10-rooms-in-school/"
+  },{
     "title": "[日本語勉強中] 09 日常用品（二）",
     "date": "",
     "description": "個人日文筆記 - 第九課 - 日常用品（二）",
@@ -8,7 +14,7 @@
     "title": "[日本語勉強中] 08 日常用品（一）",
     "date": "",
     "description": "個人日文筆記 - 第八課 - 日常用品（一）",
-    "body": "一些生活中常見物品，以及如何表達所屬和提問\n文法 1. の的用法（二） 人稱 の N 在「N1 の N2」的結構中，助詞の不僅可以表示 N1 是修飾 N2 的\n當N1是人的話，還可以表示所屬的概念。在台灣很常見在廣告 DM 上看到這種用法\n例如，我的書用日語表達的話，是 私の本（わたしのほん/watashinohon）。\n   日語 翻譯     kore wa watashi no hon desu これは私の本です。 這是我的書   kore wa dare no hon desu ka これはだれの本ですか。 這是誰的書    2. の的用法（三）人稱の 在「人稱 の N」的結構中，如果該名詞是上文已經提到過的，那麼再次出現時可以省略，變成人稱の的結構\n   日語 翻譯     kore wa ri san no jisho desu ka これは李さんの辞書ですか。 hai,sorewa ri san no desu はい、それは李さんのです。 這是小李的字典嗎？ 是的，那是小李的。   are wa tanaka san no kaban desu ka あれは田中さんのかばんですか。 iie,are wa watashi no dewaarimasen いいえ、あれは私のではありません。 那個是田中先生的包嗎？ 不是的，那不是我的。    特殊疑問詞：どれ 對これ? それ? あれ?進行提問的特殊疑問詞，意思為哪一個\n和か共同構成對事物的位置關係行提問的特殊疑問句\n   日語 翻譯     watashi no hon wa dore desu ka 私の本はどれですか。 我的書是哪一個？   ri san no kasa wa dore desu ka 李さんの傘はどれですか。 小李的傘是哪一個？   tanaka san no tokei wa dore desu ka 田中さんの時計はどれですか。 田中先生的表是哪一個？    どれ 和 これ、それ、あれ、構成一個完整系列\n これ・それ・あれ・どれ\n 本課單字    日文 發音 翻譯     傘 ka sa かさ 傘   時計 to ke i とけい 手錶   かばん ka ba n かばん 包包   辞書 ji sho じしょ 字典   ハンカチ ha n ka chi はんかち 手帕   パソコン pa so ko n ぱそこん 電腦   ",
+    "body": "一些生活中常見物品，以及如何表達所屬和提問\n文法 1. の的用法（二） 人稱 の N 在「N1 の N2」的結構中，助詞の不僅可以表示 N1 是修飾 N2 的\n當N1是人的話，還可以表示所屬的概念。在台灣很常見在廣告 DM 上看到這種用法\n例如，我的書用日語表達的話，是 私の本（わたしのほん/watashinohon）。\n   日語 翻譯     kore wa watashi no hon desu これは私の本です。 這是我的書   kore wa dare no hon desu ka これはだれの本ですか。 這是誰的書    2. の的用法（三）人稱の 在「人稱 の N」的結構中，如果該名詞是上文已經提到過的，那麼再次出現時可以省略，變成人稱の的結構\n   日語 翻譯     kore wa ri san no jisho desu ka これは李さんの辞書ですか。 hai,sorewa ri san no desu はい、それは李さんのです。 這是小李的字典嗎？ 是的，那是小李的。   are wa tanaka san no kaban desu ka あれは田中さんのかばんですか。 iie,are wa watashi no dewaarimasen いいえ、あれは私のではありません。 那個是田中先生的包嗎？ 不是的，那不是我的。    特殊疑問詞：どれ 對これ? それ? あれ?進行提問的特殊疑問詞，意思為哪一個\n和か共同構成對事物的位置關係行提問的特殊疑問句\n   日語 翻譯     watashi no hon wa dore desu ka 私の本はどれですか。 我的書是哪一個？   ri san no kasa wa dore desu ka 李さんの傘はどれですか。 小李的傘是哪一個？   tanaka san no tokei wa dore desu ka 田中さんの時計はどれですか。 田中先生的表是哪一個？    どれ 和 これ、それ、あれ 構成一個完整系列\n これ・それ・あれ・どれ\n 本課單字    日文 發音 翻譯     傘 ka sa かさ 傘   時計 to ke i とけい 手錶   かばん ka ba n かばん 包包   辞書 ji sho じしょ 字典   ハンカチ ha n ka chi はんかち 手帕   パソコン pa so ko n ぱそこん 電腦   ",
     "ref": "/blog/202111-learn-japanese-08-daily-necessaries-01/"
   },{
     "title": "[日本語勉強中] 07 語言",
