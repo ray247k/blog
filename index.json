@@ -1,9 +1,15 @@
 [{
-    "title": "[日本語勉強中] 12 存在句",
+    "title": "[日本語勉強中] 13 存在句 - 有生命",
     "date": "",
-    "description": "個人日文筆記 - 第十二課 - 存在句",
+    "description": "個人日文筆記 - 第十二課 - 存在句（有生命）",
+    "body": "介紹表達有意識生命體存在某地點的方法\n文法 人與動物  地點に某人・動物がいます / いません\n います(imasu)：也是表示存在的動詞，它只能用於人、貓、狗等具有自我意識的事物\nいません：是它的否定，表示不存在\n某物が(ga)：表示存在的對象，例如 貓がいます。（neko ga imasu / 存在貓）\n某處に(ni)：表示存在的地點，例如 部屋にいます。（heya ni imasu / 存在於房間裡）\n「在某處有 / 沒有某人・動物」用日語完整表達為 地點に某人・動物がいます / いません。\n   日語 翻譯     heya ni neko ga imasu 部屋に貓がいます。 房間裡有貓   kouen ni kodomo ga imasen 公園に子供がいません。 公園裡沒有孩子   byouin ni isha ga imasu 病院に医者がいます。 醫院裡有醫生    這個句型只能對某人或是動物的部分提問，對人用だれ(dare)，對物用何(nani)\n這裡「何」讀作 nani\n   日語 翻譯     heya ni nani ga imasu ka 部屋に何がいますか。 房間裡有什麼(活物)？   kouen ni dare ga imasu ka 公園にだれがいますか。 公園裡有誰？   byouin ni dare ga imasu ka 病院にだれがいますか。 醫院裡有誰？    本課單字    日文 發音 翻譯     居間 i ma いま 客廳   猫 ne ko ねこ 貓   犬 i nu いぬ 狗   魚 sa ka na さかな 魚   鳥 to ri とり 鳥   子供 ko do mo こども 小孩   ",
+    "ref": "/blog/202112-learn-japanese-13-exist-02/"
+  },{
+    "title": "[日本語勉強中] 12 存在句 - 無生命",
+    "date": "",
+    "description": "個人日文筆記 - 第十二課 - 存在句（無生命）",
     "body": "介紹表達物品存在某地點的方法\n文法 某處に 某物が あります / ありません あります(arimasu)：表示存在的動詞，只能用於桌子、椅子、花、草等不具有自我意識的事物\nありません(arimasen)：否定，表示不存在\n某物が(ga)：表示存在的對象，例如「機があります。/ tsukue ga arimasu / 桌子存在」\n某處に(ni)：表示存在的s地點，例如「部屋にあります。/ heya ni arimasu / 存在於房間裡」\n「在某處有 / 沒有某物」用日語完整表達為地點に 某物が あります/ありません。\n   日語 翻譯     heya ni tsukue ga arimasu 部屋に机があります。 房間裡有桌子   kouen ni hana ga arimasen 公園に花がありません。 公園裡沒有花   asokoni hon ga arimasu あそこに本があります。 那裡有書    對存在內容進行提問 用何對某物進行提問，這裡「何」讀作「nani」\n   日語 翻譯     heya ni nani ga arimasu ka 部屋に何がありますか。 房間裡有什麼？   kouen ni nani ga arimasu ka 公園に何がありますか。 公園裡有什麼？   asoko ni nani ga arimasu ka あそこに何がありますか。 那裡有什麼？    N1とN2 在日語中，要表示「N1 和 N2」需要用助詞と來連接，形成「N1とN2」的結構\n   日語 翻譯     tsukue to isu 机と椅子 桌子和椅子   hana to ishi 花と石 花和石頭   risan to tanakasan 李さんと田中さん 小李和田中先生    本課單字    日文 發音 翻譯     公園 ko u e n こうえん 公園   部屋 he ya へや 房間   石 i shi いし 石頭   花 ha na はな 花   庭 ni wa にわ 院子   ",
-    "ref": "/blog/202112-learn-japanese-12-exist/"
+    "ref": "/blog/202112-learn-japanese-12-exist-01/"
   },{
     "title": "[日本語勉強中] 11 公共場所",
     "date": "",
