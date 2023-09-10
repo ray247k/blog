@@ -1,4 +1,10 @@
 [{
+    "title": "[日本語勉強中] 60 邏輯關係",
+    "date": "",
+    "description": "個人日文筆記 - 第六十課 - 邏輯關係",
+    "body": "用邏輯關係解釋事件\n文法 1. 如果發生 V1，就會發生 V2 V1 と(to)、V2\nV1 是 V2 發生的條件，通常用於客觀規律和會反復發生的事情\n「と(to)」前面通常接動詞原形\n日語 翻譯 haru ni naru to,hana ga sakimasu 春になると、花が咲きます。 一到春天，花就開 fuyu ni naru to,samukunarimasu 冬になると、寒くなります。 一到冬天，就變冷 kono botan o osu to,mizu ga demasu このボタンを押すと、水が出ます。 一按這個按鈕，就會出水 2. 表示語氣轉折 「が(ga)」和「でも(demo)」在句子結構上有所不同\n還有一種用在書面語和正式的場合的「しかし(shikashi)」\nが(ga) 句子1+が、句子2\n「が」放在句子1末尾，整體是一句話\n日語 翻譯 ame ga furimashita ga,chikokushimasen deshita 雨が降りましたが、遅刻しませんでした。 雖然下雨了，但是沒遲到 でも(demo) 句子1。でも、句子2\n「でも」放在句子2開頭，整體是兩句話\n日語 翻譯 ame ga furimashita. demo,chikokushimasen deshita 雨が降りました。でも、遅刻しませんでした。 下雨了。但是沒遲到 しかし(shikashi) 與でも(demo)類似，用法也一樣\nでも(demo)：比較隨意，多用在口語中 しかし(shikashi)：較為正式，多用在書面語和正式的場合 3. 即使\u0026hellip; 表示讓步的語句結構\nN+でも 和 V+ても\n結構 日語 翻譯 N + でも kaze demo kaisha o yasumimasen 風邪でも会社を休みません。 即使感冒也不請假休息 V + ても kaze o hiitemo kaisha o yasumimasen 風邪を引いても会社を休みません。 即使感冒也不請假休息 單字 日文 發音 翻譯 ボタン bo ta n ぼたん 按鈕 押す o su おす 按、壓 病気 byo u ki びょうき 生病 咲く sa ku さく 開花 ",
+    "ref": "/blog/202309-learn-japanese-60-logical-relation/"
+  },{
     "title": "[日本語勉強中] 59 前因後果",
     "date": "",
     "description": "個人日文筆記 - 第五十九課 - 前因後果",
