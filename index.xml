@@ -1,27 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>來點檸檬酒</title>
+    <title>西西里剛好濃</title>
     <link>https://blog.ray247k.com/</link>
-    <description>Recent content on 來點檸檬酒</description>
+    <description>Recent content on 西西里剛好濃</description>
     <generator>Hugo</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 21 May 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Apr 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.ray247k.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>一個人第一次日本東京行(二)：打包</title>
-      <link>https://blog.ray247k.com/blog/202305-tokyo-travel-2022-part2/</link>
-      <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/blog/202305-tokyo-travel-2022-part2/</guid>
-      <description>&lt;p&gt;完全沒獨自出國，對日本也不熟要怎麼開始規劃行程？&lt;br&gt;&#xA;別擔心，先從行李和機票開始下手！把行李打包也把自己打包&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>一個人第一次日本東京行(一)：衝動</title>
-      <link>https://blog.ray247k.com/blog/202305-tokyo-travel-2022-part1/</link>
-      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/blog/202305-tokyo-travel-2022-part1/</guid>
-      <description>&lt;p&gt;說明前因後果和這系列文章的規劃&lt;br&gt;&#xA;簡單說明動機和一些可能可以讓跟我一樣第一次一個人去日本的人放心的話&lt;/p&gt;</description>
-    </item>
     <item>
       <title>尾丸波爾卡 Line 貼圖翻譯</title>
       <link>https://blog.ray247k.com/blog/202304-hololive-sticker-omaru-polka-line-sticker-translate/</link>
@@ -83,7 +69,7 @@
       <link>https://blog.ray247k.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://blog.ray247k.com/about/</guid>
-      <description>【來點檸檬酒】本意是分享一路走來的各種心得感想，用最直接的方式寫成文字講給當初的自己聽&#xA;也是給剛成年的你。涵蓋投資理財、個人成長、學習方法、人生哲學、職涯規劃等方面&#xA;希望能帶給已經成年的你的你一些幫助！開始享受這杯酒&#xA;另外有程式技術技術領域的部落格：薛丁格的工程師 討論網頁開發、軟體工程、前端、後端、聊天機器人、伺服器等相關技術知識&#xA;若對相關領域有興趣，歡迎前來參觀與交流</description>
+      <description>&lt;h2 id=&#34;出發點&#34;&gt;出發點&lt;/h2&gt;&#xA;&lt;p&gt;西西里咖啡帶著 40% 苦、30% 甜、30% 酸&lt;br&gt;&#xA;細細品味，也許還能嚐出一點回甘&#xA;人生呢？大概也是這樣的比例&lt;/p&gt;&#xA;&lt;p&gt;有時甜味少了點，酸味多了點，還苦得你懷疑人生&lt;br&gt;&#xA;有時濃烈，有時平淡&lt;br&gt;&#xA;但無論如何，你最終會找到屬於自己的「剛好濃」&lt;/p&gt;&#xA;&lt;p&gt;這裡是一個整理思緒與自言自語的地方&lt;br&gt;&#xA;寫給當初迷茫的自己&lt;/p&gt;&#xA;&lt;p&gt;主要著重在個人成長，記錄一些不這麼技術的東西&lt;/p&gt;&#xA;&lt;h2 id=&#34;內容&#34;&gt;內容&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;個人成長&lt;/strong&gt;：談心靈、談財務，從日常的小事出發，找到屬於自己的平衡點&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;ACG（動畫、漫畫、遊戲）&lt;/strong&gt;：給人的感覺就是個宅宅，但其實入宅坑是近幾年的事情&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;另外有程式技術技術領域的部落格：&lt;strong&gt;&lt;a href=&#34;https://tech.ray247k.com&#34;&#xA;   &#xA;    target=&#34;_blank&#34; rel=&#34;noreferrer noopener&#34;&gt;Byte Ebi 🍤&#xA;&lt;/a&gt;&#xA;&lt;/strong&gt;&lt;br&gt;&#xA;那裡聚焦於網頁開發、軟體工程、前後端技術、聊天機器人及伺服器相關技術知識&lt;br&gt;&#xA;不過可能會跟空腹喝咖啡一樣讓你胃痛&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

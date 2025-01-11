@@ -1,34 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 來點檸檬酒</title>
+    <title>Tags on 西西里剛好濃</title>
     <link>https://blog.ray247k.com/tags/</link>
-    <description>Recent content in Tags on 來點檸檬酒</description>
+    <description>Recent content in Tags on 西西里剛好濃</description>
     <generator>Hugo</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 21 May 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Apr 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.ray247k.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>日本</title>
-      <link>https://blog.ray247k.com/tags/%E6%97%A5%E6%9C%AC/</link>
-      <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/tags/%E6%97%A5%E6%9C%AC/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>東京</title>
-      <link>https://blog.ray247k.com/tags/%E6%9D%B1%E4%BA%AC/</link>
-      <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/tags/%E6%9D%B1%E4%BA%AC/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>旅行</title>
-      <link>https://blog.ray247k.com/tags/%E6%97%85%E8%A1%8C/</link>
-      <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/tags/%E6%97%85%E8%A1%8C/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Omaru Polka</title>
       <link>https://blog.ray247k.com/tags/omaru-polka/</link>
@@ -100,17 +79,17 @@
       <description></description>
     </item>
     <item>
-      <title>個人成長</title>
-      <link>https://blog.ray247k.com/tags/%E5%80%8B%E4%BA%BA%E6%88%90%E9%95%B7/</link>
-      <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/tags/%E5%80%8B%E4%BA%BA%E6%88%90%E9%95%B7/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>人際關係</title>
       <link>https://blog.ray247k.com/tags/%E4%BA%BA%E9%9A%9B%E9%97%9C%E4%BF%82/</link>
       <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
       <guid>https://blog.ray247k.com/tags/%E4%BA%BA%E9%9A%9B%E9%97%9C%E4%BF%82/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>個人成長</title>
+      <link>https://blog.ray247k.com/tags/%E5%80%8B%E4%BA%BA%E6%88%90%E9%95%B7/</link>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://blog.ray247k.com/tags/%E5%80%8B%E4%BA%BA%E6%88%90%E9%95%B7/</guid>
       <description></description>
     </item>
     <item>
