@@ -2,136 +2,136 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 西西里剛好濃</title>
-    <link>https://blog.ray247k.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on 西西里剛好濃</description>
     <generator>Hugo</generator>
     <language>zh-TW</language>
     <lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.ray247k.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>職涯發展</title>
-      <link>https://blog.ray247k.com/tags/%E8%81%B7%E6%B6%AF%E7%99%BC%E5%B1%95/</link>
+      <link>http://localhost:1313/tags/%E8%81%B7%E6%B6%AF%E7%99%BC%E5%B1%95/</link>
       <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/tags/%E8%81%B7%E6%B6%AF%E7%99%BC%E5%B1%95/</guid>
+      <guid>http://localhost:1313/tags/%E8%81%B7%E6%B6%AF%E7%99%BC%E5%B1%95/</guid>
       <description></description>
     </item>
     <item>
       <title>人際溝通</title>
-      <link>https://blog.ray247k.com/tags/%E4%BA%BA%E9%9A%9B%E6%BA%9D%E9%80%9A/</link>
+      <link>http://localhost:1313/tags/%E4%BA%BA%E9%9A%9B%E6%BA%9D%E9%80%9A/</link>
       <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/tags/%E4%BA%BA%E9%9A%9B%E6%BA%9D%E9%80%9A/</guid>
+      <guid>http://localhost:1313/tags/%E4%BA%BA%E9%9A%9B%E6%BA%9D%E9%80%9A/</guid>
       <description></description>
     </item>
     <item>
       <title>思維認知</title>
-      <link>https://blog.ray247k.com/tags/%E6%80%9D%E7%B6%AD%E8%AA%8D%E7%9F%A5/</link>
+      <link>http://localhost:1313/tags/%E6%80%9D%E7%B6%AD%E8%AA%8D%E7%9F%A5/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/tags/%E6%80%9D%E7%B6%AD%E8%AA%8D%E7%9F%A5/</guid>
+      <guid>http://localhost:1313/tags/%E6%80%9D%E7%B6%AD%E8%AA%8D%E7%9F%A5/</guid>
       <description></description>
     </item>
     <item>
       <title>個人成長</title>
-      <link>https://blog.ray247k.com/tags/%E5%80%8B%E4%BA%BA%E6%88%90%E9%95%B7/</link>
+      <link>http://localhost:1313/tags/%E5%80%8B%E4%BA%BA%E6%88%90%E9%95%B7/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/tags/%E5%80%8B%E4%BA%BA%E6%88%90%E9%95%B7/</guid>
+      <guid>http://localhost:1313/tags/%E5%80%8B%E4%BA%BA%E6%88%90%E9%95%B7/</guid>
       <description></description>
     </item>
     <item>
       <title>閱讀紀錄</title>
-      <link>https://blog.ray247k.com/tags/%E9%96%B1%E8%AE%80%E7%B4%80%E9%8C%84/</link>
+      <link>http://localhost:1313/tags/%E9%96%B1%E8%AE%80%E7%B4%80%E9%8C%84/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/tags/%E9%96%B1%E8%AE%80%E7%B4%80%E9%8C%84/</guid>
+      <guid>http://localhost:1313/tags/%E9%96%B1%E8%AE%80%E7%B4%80%E9%8C%84/</guid>
       <description></description>
     </item>
     <item>
       <title>心理健康</title>
-      <link>https://blog.ray247k.com/tags/%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7/</link>
+      <link>http://localhost:1313/tags/%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7/</link>
       <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/tags/%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7/</guid>
+      <guid>http://localhost:1313/tags/%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7/</guid>
       <description></description>
     </item>
     <item>
       <title>心理勵志</title>
-      <link>https://blog.ray247k.com/tags/%E5%BF%83%E7%90%86%E5%8B%B5%E5%BF%97/</link>
+      <link>http://localhost:1313/tags/%E5%BF%83%E7%90%86%E5%8B%B5%E5%BF%97/</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/tags/%E5%BF%83%E7%90%86%E5%8B%B5%E5%BF%97/</guid>
+      <guid>http://localhost:1313/tags/%E5%BF%83%E7%90%86%E5%8B%B5%E5%BF%97/</guid>
       <description></description>
     </item>
     <item>
       <title>Omaru Polka</title>
-      <link>https://blog.ray247k.com/tags/omaru-polka/</link>
+      <link>http://localhost:1313/tags/omaru-polka/</link>
       <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/tags/omaru-polka/</guid>
+      <guid>http://localhost:1313/tags/omaru-polka/</guid>
       <description></description>
     </item>
     <item>
       <title>VTuber</title>
-      <link>https://blog.ray247k.com/tags/vtuber/</link>
+      <link>http://localhost:1313/tags/vtuber/</link>
       <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/tags/vtuber/</guid>
+      <guid>http://localhost:1313/tags/vtuber/</guid>
       <description></description>
     </item>
     <item>
       <title>尾丸波爾卡</title>
-      <link>https://blog.ray247k.com/tags/%E5%B0%BE%E4%B8%B8%E6%B3%A2%E7%88%BE%E5%8D%A1/</link>
+      <link>http://localhost:1313/tags/%E5%B0%BE%E4%B8%B8%E6%B3%A2%E7%88%BE%E5%8D%A1/</link>
       <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/tags/%E5%B0%BE%E4%B8%B8%E6%B3%A2%E7%88%BE%E5%8D%A1/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Houshou Marine</title>
-      <link>https://blog.ray247k.com/tags/houshou-marine/</link>
-      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/tags/houshou-marine/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>寶鐘瑪琳</title>
-      <link>https://blog.ray247k.com/tags/%E5%AF%B6%E9%90%98%E7%91%AA%E7%90%B3/</link>
-      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/tags/%E5%AF%B6%E9%90%98%E7%91%AA%E7%90%B3/</guid>
+      <guid>http://localhost:1313/tags/%E5%B0%BE%E4%B8%B8%E6%B3%A2%E7%88%BE%E5%8D%A1/</guid>
       <description></description>
     </item>
     <item>
       <title>學習法</title>
-      <link>https://blog.ray247k.com/tags/%E5%AD%B8%E7%BF%92%E6%B3%95/</link>
-      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/tags/%E5%AD%B8%E7%BF%92%E6%B3%95/</guid>
+      <link>http://localhost:1313/tags/%E5%AD%B8%E7%BF%92%E6%B3%95/</link>
+      <pubDate>Sun, 18 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%AD%B8%E7%BF%92%E6%B3%95/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Houshou Marine</title>
+      <link>http://localhost:1313/tags/houshou-marine/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/houshou-marine/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>寶鐘瑪琳</title>
+      <link>http://localhost:1313/tags/%E5%AF%B6%E9%90%98%E7%91%AA%E7%90%B3/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%AF%B6%E9%90%98%E7%91%AA%E7%90%B3/</guid>
       <description></description>
     </item>
     <item>
       <title>Kson</title>
-      <link>https://blog.ray247k.com/tags/kson/</link>
+      <link>http://localhost:1313/tags/kson/</link>
       <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/tags/kson/</guid>
+      <guid>http://localhost:1313/tags/kson/</guid>
       <description></description>
     </item>
     <item>
       <title>KsonONAIR</title>
-      <link>https://blog.ray247k.com/tags/ksononair/</link>
+      <link>http://localhost:1313/tags/ksononair/</link>
       <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/tags/ksononair/</guid>
+      <guid>http://localhost:1313/tags/ksononair/</guid>
       <description></description>
     </item>
     <item>
       <title>投資理財</title>
-      <link>https://blog.ray247k.com/tags/%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1/</link>
+      <link>http://localhost:1313/tags/%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1/</link>
       <pubDate>Sun, 03 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/tags/%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1/</guid>
+      <guid>http://localhost:1313/tags/%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1/</guid>
       <description></description>
     </item>
     <item>
       <title>Kiryu Coco</title>
-      <link>https://blog.ray247k.com/tags/kiryu-coco/</link>
+      <link>http://localhost:1313/tags/kiryu-coco/</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/tags/kiryu-coco/</guid>
+      <guid>http://localhost:1313/tags/kiryu-coco/</guid>
       <description></description>
     </item>
     <item>
       <title>桐生可可</title>
-      <link>https://blog.ray247k.com/tags/%E6%A1%90%E7%94%9F%E5%8F%AF%E5%8F%AF/</link>
+      <link>http://localhost:1313/tags/%E6%A1%90%E7%94%9F%E5%8F%AF%E5%8F%AF/</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/tags/%E6%A1%90%E7%94%9F%E5%8F%AF%E5%8F%AF/</guid>
+      <guid>http://localhost:1313/tags/%E6%A1%90%E7%94%9F%E5%8F%AF%E5%8F%AF/</guid>
       <description></description>
     </item>
   </channel>

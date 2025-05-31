@@ -2,206 +2,206 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on 西西里剛好濃</title>
-    <link>https://blog.ray247k.com/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content in Blog on 西西里剛好濃</description>
     <generator>Hugo</generator>
     <language>zh-TW</language>
     <lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.ray247k.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[閱讀] 發現我的多重職涯組合</title>
-      <link>https://blog.ray247k.com/blog/202501-%E7%99%BC%E7%8F%BE%E6%88%91%E7%9A%84%E5%A4%9A%E9%87%8D%E8%81%B7%E6%B6%AF%E7%B5%84%E5%90%88/</link>
+      <link>http://localhost:1313/blog/202501-%E7%99%BC%E7%8F%BE%E6%88%91%E7%9A%84%E5%A4%9A%E9%87%8D%E8%81%B7%E6%B6%AF%E7%B5%84%E5%90%88/</link>
       <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/blog/202501-%E7%99%BC%E7%8F%BE%E6%88%91%E7%9A%84%E5%A4%9A%E9%87%8D%E8%81%B7%E6%B6%AF%E7%B5%84%E5%90%88/</guid>
+      <guid>http://localhost:1313/blog/202501-%E7%99%BC%E7%8F%BE%E6%88%91%E7%9A%84%E5%A4%9A%E9%87%8D%E8%81%B7%E6%B6%AF%E7%B5%84%E5%90%88/</guid>
       <description>&lt;p&gt;在不確定的世界中想找到個人與職業平衡的人所寫的指南&lt;br&gt;&#xA;點出了未來世代需要面對的職涯發展課題，把人生當成一間公司在規畫，自己就是人生的 CEO！&lt;/p&gt;</description>
     </item>
     <item>
       <title>[閱讀] 沒人看見你的好，你要懂得自己誇</title>
-      <link>https://blog.ray247k.com/blog/202412-%E6%B2%92%E4%BA%BA%E7%9C%8B%E8%A6%8B%E4%BD%A0%E7%9A%84%E5%A5%BD%E4%BD%A0%E8%A6%81%E6%87%82%E5%BE%97%E8%87%AA%E5%B7%B1%E8%AA%87/</link>
+      <link>http://localhost:1313/blog/202412-%E6%B2%92%E4%BA%BA%E7%9C%8B%E8%A6%8B%E4%BD%A0%E7%9A%84%E5%A5%BD%E4%BD%A0%E8%A6%81%E6%87%82%E5%BE%97%E8%87%AA%E5%B7%B1%E8%AA%87/</link>
       <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/blog/202412-%E6%B2%92%E4%BA%BA%E7%9C%8B%E8%A6%8B%E4%BD%A0%E7%9A%84%E5%A5%BD%E4%BD%A0%E8%A6%81%E6%87%82%E5%BE%97%E8%87%AA%E5%B7%B1%E8%AA%87/</guid>
+      <guid>http://localhost:1313/blog/202412-%E6%B2%92%E4%BA%BA%E7%9C%8B%E8%A6%8B%E4%BD%A0%E7%9A%84%E5%A5%BD%E4%BD%A0%E8%A6%81%E6%87%82%E5%BE%97%E8%87%AA%E5%B7%B1%E8%AA%87/</guid>
       <description>&lt;p&gt;這世界獎勵大聲的人，而不是有能力卻沉默的人&lt;br&gt;&#xA;自誇是人生基本功，也是現代人生存必備的武器！&lt;/p&gt;</description>
     </item>
     <item>
       <title>[閱讀] 加速式子彈學習法則</title>
-      <link>https://blog.ray247k.com/blog/202411-%E5%8A%A0%E9%80%9F%E5%BC%8F%E5%AD%90%E5%BD%88%E5%AD%B8%E7%BF%92%E6%B3%95%E5%89%87/</link>
+      <link>http://localhost:1313/blog/202411-%E5%8A%A0%E9%80%9F%E5%BC%8F%E5%AD%90%E5%BD%88%E5%AD%B8%E7%BF%92%E6%B3%95%E5%89%87/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/blog/202411-%E5%8A%A0%E9%80%9F%E5%BC%8F%E5%AD%90%E5%BD%88%E5%AD%B8%E7%BF%92%E6%B3%95%E5%89%87/</guid>
+      <guid>http://localhost:1313/blog/202411-%E5%8A%A0%E9%80%9F%E5%BC%8F%E5%AD%90%E5%BD%88%E5%AD%B8%E7%BF%92%E6%B3%95%E5%89%87/</guid>
       <description>&lt;p&gt;贏在起跑點不代表什麼，能夠「掌握學習技巧」，才是駕馭人生、邁向成功的重要關鍵&lt;/p&gt;</description>
     </item>
     <item>
       <title>[閱讀紀錄] 打造理想人生的習慣大全</title>
-      <link>https://blog.ray247k.com/blog/202410-%E6%89%93%E9%80%A0%E7%90%86%E6%83%B3%E4%BA%BA%E7%94%9F%E7%9A%84%E7%BF%92%E6%85%A3%E5%A4%A7%E5%85%A8/</link>
+      <link>http://localhost:1313/blog/202410-%E6%89%93%E9%80%A0%E7%90%86%E6%83%B3%E4%BA%BA%E7%94%9F%E7%9A%84%E7%BF%92%E6%85%A3%E5%A4%A7%E5%85%A8/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/blog/202410-%E6%89%93%E9%80%A0%E7%90%86%E6%83%B3%E4%BA%BA%E7%94%9F%E7%9A%84%E7%BF%92%E6%85%A3%E5%A4%A7%E5%85%A8/</guid>
+      <guid>http://localhost:1313/blog/202410-%E6%89%93%E9%80%A0%E7%90%86%E6%83%B3%E4%BA%BA%E7%94%9F%E7%9A%84%E7%BF%92%E6%85%A3%E5%A4%A7%E5%85%A8/</guid>
       <description>&lt;p&gt;許多人「知道」成功取決於 90％的好習慣，只是往往想做卻「做不到」&lt;br&gt;&#xA;事實上，養成好習慣的關鍵不在意志力，而在某些隱形的開關！&lt;/p&gt;</description>
     </item>
     <item>
       <title>[閱讀] 一流的人如何擁有動態穩定力</title>
-      <link>https://blog.ray247k.com/blog/202408-%E4%B8%80%E6%B5%81%E7%9A%84%E4%BA%BA%E5%A6%82%E4%BD%95%E6%93%81%E6%9C%89%E5%8B%95%E6%85%8B%E7%A9%A9%E5%AE%9A%E5%8A%9B/</link>
+      <link>http://localhost:1313/blog/202408-%E4%B8%80%E6%B5%81%E7%9A%84%E4%BA%BA%E5%A6%82%E4%BD%95%E6%93%81%E6%9C%89%E5%8B%95%E6%85%8B%E7%A9%A9%E5%AE%9A%E5%8A%9B/</link>
       <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/blog/202408-%E4%B8%80%E6%B5%81%E7%9A%84%E4%BA%BA%E5%A6%82%E4%BD%95%E6%93%81%E6%9C%89%E5%8B%95%E6%85%8B%E7%A9%A9%E5%AE%9A%E5%8A%9B/</guid>
+      <guid>http://localhost:1313/blog/202408-%E4%B8%80%E6%B5%81%E7%9A%84%E4%BA%BA%E5%A6%82%E4%BD%95%E6%93%81%E6%9C%89%E5%8B%95%E6%85%8B%E7%A9%A9%E5%AE%9A%E5%8A%9B/</guid>
       <description>&lt;p&gt;無論是個人或群體，我們最大的挑戰是改變。&lt;br&gt;&#xA;培養變通思維，調整期待，修復不確定性帶來的震盪，隨變動而更高效強大&lt;/p&gt;</description>
     </item>
     <item>
       <title>[閱讀] 別做熱愛的事，要做真實的自己</title>
-      <link>https://blog.ray247k.com/blog/202407-%E5%88%A5%E5%81%9A%E7%86%B1%E6%84%9B%E7%9A%84%E4%BA%8B%E8%A6%81%E5%81%9A%E7%9C%9F%E5%AF%A6%E7%9A%84%E8%87%AA%E5%B7%B1/</link>
+      <link>http://localhost:1313/blog/202407-%E5%88%A5%E5%81%9A%E7%86%B1%E6%84%9B%E7%9A%84%E4%BA%8B%E8%A6%81%E5%81%9A%E7%9C%9F%E5%AF%A6%E7%9A%84%E8%87%AA%E5%B7%B1/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/blog/202407-%E5%88%A5%E5%81%9A%E7%86%B1%E6%84%9B%E7%9A%84%E4%BA%8B%E8%A6%81%E5%81%9A%E7%9C%9F%E5%AF%A6%E7%9A%84%E8%87%AA%E5%B7%B1/</guid>
+      <guid>http://localhost:1313/blog/202407-%E5%88%A5%E5%81%9A%E7%86%B1%E6%84%9B%E7%9A%84%E4%BA%8B%E8%A6%81%E5%81%9A%E7%9C%9F%E5%AF%A6%E7%9A%84%E8%87%AA%E5%B7%B1/</guid>
       <description>&lt;p&gt;順其自然，一切會有最好的安排。&lt;br&gt;&#xA;你無須做那個「理想的自己」，你只需要慢慢活成「真實的自己」，那樣就已經很好了。&lt;/p&gt;</description>
     </item>
     <item>
       <title>[閱讀] 感謝失業，讓我成為更好的人</title>
-      <link>https://blog.ray247k.com/blog/202405-%E6%84%9F%E8%AC%9D%E5%A4%B1%E6%A5%AD%E8%AE%93%E6%88%91%E6%88%90%E7%82%BA%E6%9B%B4%E5%A5%BD%E7%9A%84%E4%BA%BA/</link>
+      <link>http://localhost:1313/blog/202405-%E6%84%9F%E8%AC%9D%E5%A4%B1%E6%A5%AD%E8%AE%93%E6%88%91%E6%88%90%E7%82%BA%E6%9B%B4%E5%A5%BD%E7%9A%84%E4%BA%BA/</link>
       <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/blog/202405-%E6%84%9F%E8%AC%9D%E5%A4%B1%E6%A5%AD%E8%AE%93%E6%88%91%E6%88%90%E7%82%BA%E6%9B%B4%E5%A5%BD%E7%9A%84%E4%BA%BA/</guid>
+      <guid>http://localhost:1313/blog/202405-%E6%84%9F%E8%AC%9D%E5%A4%B1%E6%A5%AD%E8%AE%93%E6%88%91%E6%88%90%E7%82%BA%E6%9B%B4%E5%A5%BD%E7%9A%84%E4%BA%BA/</guid>
       <description>&lt;p&gt;「我被資遣了」這句話宛如晴天霹靂一般在心中炸響&lt;br&gt;&#xA;在知道這件事情之後該怎麼調整自己的心情和規劃下一步呢？&lt;br&gt;&#xA;這本書在我失業時帶給我很多的啟發和前進的動力。&lt;/p&gt;</description>
     </item>
     <item>
       <title>[閱讀] 我，刀槍不入</title>
-      <link>https://blog.ray247k.com/blog/202404-%E6%88%91%E5%88%80%E6%A7%8D%E4%B8%8D%E5%85%A5/</link>
+      <link>http://localhost:1313/blog/202404-%E6%88%91%E5%88%80%E6%A7%8D%E4%B8%8D%E5%85%A5/</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/blog/202404-%E6%88%91%E5%88%80%E6%A7%8D%E4%B8%8D%E5%85%A5/</guid>
+      <guid>http://localhost:1313/blog/202404-%E6%88%91%E5%88%80%E6%A7%8D%E4%B8%8D%E5%85%A5/</guid>
       <description>&lt;p&gt;我們真的可以成為你想要的人，如果你想的話&lt;br&gt;&#xA;擁抱「哥金斯心態」，將不可能變成可能！&lt;/p&gt;</description>
     </item>
     <item>
       <title>[閱讀] 一人公司</title>
-      <link>https://blog.ray247k.com/blog/202403-%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8/</link>
+      <link>http://localhost:1313/blog/202403-%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8/</link>
       <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/blog/202403-%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8/</guid>
+      <guid>http://localhost:1313/blog/202403-%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8/</guid>
       <description>&lt;p&gt;立志做小事！&lt;br&gt;&#xA;為目標設定下限，用你的生活方式經營你的事業&lt;br&gt;&#xA;每個人就是一人公司！&lt;/p&gt;</description>
     </item>
     <item>
       <title>[閱讀] 底層邏輯：看清這個世界的底牌</title>
-      <link>https://blog.ray247k.com/blog/202312-%E5%BA%95%E5%B1%A4%E9%82%8F%E8%BC%AF%E7%9C%8B%E6%B8%85%E9%80%99%E5%80%8B%E4%B8%96%E7%95%8C%E7%9A%84%E5%BA%95%E7%89%8C/</link>
+      <link>http://localhost:1313/blog/202312-%E5%BA%95%E5%B1%A4%E9%82%8F%E8%BC%AF%E7%9C%8B%E6%B8%85%E9%80%99%E5%80%8B%E4%B8%96%E7%95%8C%E7%9A%84%E5%BA%95%E7%89%8C/</link>
       <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/blog/202312-%E5%BA%95%E5%B1%A4%E9%82%8F%E8%BC%AF%E7%9C%8B%E6%B8%85%E9%80%99%E5%80%8B%E4%B8%96%E7%95%8C%E7%9A%84%E5%BA%95%E7%89%8C/</guid>
+      <guid>http://localhost:1313/blog/202312-%E5%BA%95%E5%B1%A4%E9%82%8F%E8%BC%AF%E7%9C%8B%E6%B8%85%E9%80%99%E5%80%8B%E4%B8%96%E7%95%8C%E7%9A%84%E5%BA%95%E7%89%8C/</guid>
       <description>&lt;p&gt;在這個快速變動、競爭激烈的時代，每個人的選擇與成長路線都影響著未來的結果。&lt;br&gt;&#xA;本書用一套系統化的思考方式，幫助我們理解如何在複雜世界中定位自己，並持續提升。&lt;/p&gt;</description>
     </item>
     <item>
       <title>[閱讀] 深度思維：讓邏輯思維更強大，打造更厲害的自己</title>
-      <link>https://blog.ray247k.com/blog/202306-%E6%B7%B1%E5%BA%A6%E6%80%9D%E7%B6%AD%E8%AE%93%E9%82%8F%E8%BC%AF%E6%80%9D%E7%B6%AD%E6%9B%B4%E5%BC%B7%E5%A4%A7%E6%89%93%E9%80%A0%E6%9B%B4%E5%8E%B2%E5%AE%B3%E7%9A%84%E8%87%AA%E5%B7%B1/</link>
+      <link>http://localhost:1313/blog/202306-%E6%B7%B1%E5%BA%A6%E6%80%9D%E7%B6%AD%E8%AE%93%E9%82%8F%E8%BC%AF%E6%80%9D%E7%B6%AD%E6%9B%B4%E5%BC%B7%E5%A4%A7%E6%89%93%E9%80%A0%E6%9B%B4%E5%8E%B2%E5%AE%B3%E7%9A%84%E8%87%AA%E5%B7%B1/</link>
       <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/blog/202306-%E6%B7%B1%E5%BA%A6%E6%80%9D%E7%B6%AD%E8%AE%93%E9%82%8F%E8%BC%AF%E6%80%9D%E7%B6%AD%E6%9B%B4%E5%BC%B7%E5%A4%A7%E6%89%93%E9%80%A0%E6%9B%B4%E5%8E%B2%E5%AE%B3%E7%9A%84%E8%87%AA%E5%B7%B1/</guid>
+      <guid>http://localhost:1313/blog/202306-%E6%B7%B1%E5%BA%A6%E6%80%9D%E7%B6%AD%E8%AE%93%E9%82%8F%E8%BC%AF%E6%80%9D%E7%B6%AD%E6%9B%B4%E5%BC%B7%E5%A4%A7%E6%89%93%E9%80%A0%E6%9B%B4%E5%8E%B2%E5%AE%B3%E7%9A%84%E8%87%AA%E5%B7%B1/</guid>
       <description>&lt;p&gt;當人生的機會來臨，擁有成熟的深度思維，你將不再困頓、迷惑。&lt;br&gt;&#xA;並且更能看清楚自己應該怎麼做，找到最適合自己的人生方向。&lt;/p&gt;</description>
     </item>
     <item>
       <title>[閱讀] 複利思維</title>
-      <link>https://blog.ray247k.com/blog/202305-%E8%A4%87%E5%88%A9%E6%80%9D%E7%B6%AD/</link>
+      <link>http://localhost:1313/blog/202305-%E8%A4%87%E5%88%A9%E6%80%9D%E7%B6%AD/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/blog/202305-%E8%A4%87%E5%88%A9%E6%80%9D%E7%B6%AD/</guid>
+      <guid>http://localhost:1313/blog/202305-%E8%A4%87%E5%88%A9%E6%80%9D%E7%B6%AD/</guid>
       <description>&lt;p&gt;努力不一定會成功，但選擇「複利」一定可以&lt;br&gt;&#xA;不同的思維就會有不同的決定，關於財富、工作、人生&amp;hellip;等&lt;br&gt;&#xA;用複利思維讓你的每一次付出「價值無限放大」&lt;/p&gt;</description>
     </item>
     <item>
       <title>尾丸波爾卡 Line 貼圖翻譯</title>
-      <link>https://blog.ray247k.com/blog/202304-hololive-sticker-omaru-polka-line-sticker-translate/</link>
+      <link>http://localhost:1313/blog/202304-hololive-sticker-omaru-polka-line-sticker-translate/</link>
       <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/blog/202304-hololive-sticker-omaru-polka-line-sticker-translate/</guid>
+      <guid>http://localhost:1313/blog/202304-hololive-sticker-omaru-polka-line-sticker-translate/</guid>
       <description>&lt;p&gt;ぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽ&lt;br&gt;&#xA;ぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽ&lt;br&gt;&#xA;ぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽぽ&lt;/p&gt;</description>
     </item>
     <item>
       <title>[閱讀] 與成功有約：高效能人士的七個習慣</title>
-      <link>https://blog.ray247k.com/blog/202303-%E8%88%87%E6%88%90%E5%8A%9F%E6%9C%89%E7%B4%84%E9%AB%98%E6%95%88%E8%83%BD%E4%BA%BA%E5%A3%AB%E7%9A%84%E4%B8%83%E5%80%8B%E7%BF%92%E6%85%A3/</link>
+      <link>http://localhost:1313/blog/202303-%E8%88%87%E6%88%90%E5%8A%9F%E6%9C%89%E7%B4%84%E9%AB%98%E6%95%88%E8%83%BD%E4%BA%BA%E5%A3%AB%E7%9A%84%E4%B8%83%E5%80%8B%E7%BF%92%E6%85%A3/</link>
       <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/blog/202303-%E8%88%87%E6%88%90%E5%8A%9F%E6%9C%89%E7%B4%84%E9%AB%98%E6%95%88%E8%83%BD%E4%BA%BA%E5%A3%AB%E7%9A%84%E4%B8%83%E5%80%8B%E7%BF%92%E6%85%A3/</guid>
+      <guid>http://localhost:1313/blog/202303-%E8%88%87%E6%88%90%E5%8A%9F%E6%9C%89%E7%B4%84%E9%AB%98%E6%95%88%E8%83%BD%E4%BA%BA%E5%A3%AB%E7%9A%84%E4%B8%83%E5%80%8B%E7%BF%92%E6%85%A3/</guid>
       <description>&lt;p&gt;圓滿的生活與基本品德密不可分，唯有修養自己具備品德才能享受真正的成功與恆久的快樂&lt;/p&gt;</description>
     </item>
     <item>
-      <title>[閱讀紀錄] 英語自學王</title>
-      <link>https://blog.ray247k.com/blog/202212-%E8%8B%B1%E8%AA%9E%E8%87%AA%E5%AD%B8%E7%8E%8B/</link>
+      <title>[閱讀] 英語自學王</title>
+      <link>http://localhost:1313/blog/202212-%E8%8B%B1%E8%AA%9E%E8%87%AA%E5%AD%B8%E7%8E%8B/</link>
       <pubDate>Sun, 18 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/blog/202212-%E8%8B%B1%E8%AA%9E%E8%87%AA%E5%AD%B8%E7%8E%8B/</guid>
+      <guid>http://localhost:1313/blog/202212-%E8%8B%B1%E8%AA%9E%E8%87%AA%E5%AD%B8%E7%8E%8B/</guid>
       <description>&lt;p&gt;你學英語多久了？為什麼要學英語？為什麼別人滑手機，你在背單字？&lt;br&gt;&#xA;為什麼人家在追劇，你在讀例句？&lt;br&gt;&#xA;自學、補習、家教，無論選擇哪一條路，最終，你都必須成為一位自學者&lt;/p&gt;</description>
     </item>
     <item>
       <title>寶鐘瑪琳 Line 貼圖翻譯</title>
-      <link>https://blog.ray247k.com/blog/202211-hololive-sticker-houshou-marine-line-sticker-translate/</link>
+      <link>http://localhost:1313/blog/202211-hololive-sticker-houshou-marine-line-sticker-translate/</link>
       <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/blog/202211-hololive-sticker-houshou-marine-line-sticker-translate/</guid>
+      <guid>http://localhost:1313/blog/202211-hololive-sticker-houshou-marine-line-sticker-translate/</guid>
       <description>&lt;p&gt;船長在直播上說第一次上架還被 Line 打槍了 7 張，原因大概都是太色&lt;br&gt;&#xA;我怎麼就一點都不意外呢&lt;/p&gt;</description>
     </item>
     <item>
       <title>[閱讀] 讓思緒清晰、工作有條理的大腦整理習慣</title>
-      <link>https://blog.ray247k.com/blog/202210-%E8%AE%93%E6%80%9D%E7%B7%92%E6%B8%85%E6%99%B0%E5%B7%A5%E4%BD%9C%E6%9C%89%E6%A2%9D%E7%90%86%E7%9A%84%E5%A4%A7%E8%85%A6%E6%95%B4%E7%90%86%E7%BF%92%E6%85%A3/</link>
+      <link>http://localhost:1313/blog/202210-%E8%AE%93%E6%80%9D%E7%B7%92%E6%B8%85%E6%99%B0%E5%B7%A5%E4%BD%9C%E6%9C%89%E6%A2%9D%E7%90%86%E7%9A%84%E5%A4%A7%E8%85%A6%E6%95%B4%E7%90%86%E7%BF%92%E6%85%A3/</link>
       <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/blog/202210-%E8%AE%93%E6%80%9D%E7%B7%92%E6%B8%85%E6%99%B0%E5%B7%A5%E4%BD%9C%E6%9C%89%E6%A2%9D%E7%90%86%E7%9A%84%E5%A4%A7%E8%85%A6%E6%95%B4%E7%90%86%E7%BF%92%E6%85%A3/</guid>
+      <guid>http://localhost:1313/blog/202210-%E8%AE%93%E6%80%9D%E7%B7%92%E6%B8%85%E6%99%B0%E5%B7%A5%E4%BD%9C%E6%9C%89%E6%A2%9D%E7%90%86%E7%9A%84%E5%A4%A7%E8%85%A6%E6%95%B4%E7%90%86%E7%BF%92%E6%85%A3/</guid>
       <description>&lt;p&gt;大腦的空間，不打掃、不整理，需要用的時候，就會找不到可用的資訊，甚至影響大腦運作。&lt;/p&gt;</description>
     </item>
     <item>
       <title>[閱讀] 普通人的海外求職指南</title>
-      <link>https://blog.ray247k.com/blog/202208-%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E6%B5%B7%E5%A4%96%E6%B1%82%E8%81%B7%E6%8C%87%E5%8D%97/</link>
+      <link>http://localhost:1313/blog/202208-%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E6%B5%B7%E5%A4%96%E6%B1%82%E8%81%B7%E6%8C%87%E5%8D%97/</link>
       <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/blog/202208-%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E6%B5%B7%E5%A4%96%E6%B1%82%E8%81%B7%E6%8C%87%E5%8D%97/</guid>
+      <guid>http://localhost:1313/blog/202208-%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E6%B5%B7%E5%A4%96%E6%B1%82%E8%81%B7%E6%8C%87%E5%8D%97/</guid>
       <description>&lt;p&gt;既不是「海歸派」，也不是超級菁英，在台灣土生土長&lt;br&gt;&#xA;難道就不配擁有一個出國工作的機會嗎？&lt;/p&gt;</description>
     </item>
     <item>
       <title>[閱讀紀錄] 超級思維</title>
-      <link>https://blog.ray247k.com/blog/202207-%E8%B6%85%E7%B4%9A%E6%80%9D%E7%B6%AD/</link>
+      <link>http://localhost:1313/blog/202207-%E8%B6%85%E7%B4%9A%E6%80%9D%E7%B6%AD/</link>
       <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/blog/202207-%E8%B6%85%E7%B4%9A%E6%80%9D%E7%B6%AD/</guid>
+      <guid>http://localhost:1313/blog/202207-%E8%B6%85%E7%B4%9A%E6%80%9D%E7%B6%AD/</guid>
       <description>&lt;p&gt;解決一般性問題，考驗你的 IQ&lt;br&gt;&#xA;要不斷解決各種艱難問題，你需要「超級思維」&lt;/p&gt;</description>
     </item>
     <item>
       <title>[閱讀] 下班後1小時的極速學習攻略</title>
-      <link>https://blog.ray247k.com/blog/202206-%E4%B8%8B%E7%8F%AD%E5%BE%8C1%E5%B0%8F%E6%99%82%E7%9A%84%E6%A5%B5%E9%80%9F%E5%AD%B8%E7%BF%92%E6%94%BB%E7%95%A5/</link>
+      <link>http://localhost:1313/blog/202206-%E4%B8%8B%E7%8F%AD%E5%BE%8C1%E5%B0%8F%E6%99%82%E7%9A%84%E6%A5%B5%E9%80%9F%E5%AD%B8%E7%BF%92%E6%94%BB%E7%95%A5/</link>
       <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/blog/202206-%E4%B8%8B%E7%8F%AD%E5%BE%8C1%E5%B0%8F%E6%99%82%E7%9A%84%E6%A5%B5%E9%80%9F%E5%AD%B8%E7%BF%92%E6%94%BB%E7%95%A5/</guid>
+      <guid>http://localhost:1313/blog/202206-%E4%B8%8B%E7%8F%AD%E5%BE%8C1%E5%B0%8F%E6%99%82%E7%9A%84%E6%A5%B5%E9%80%9F%E5%AD%B8%E7%BF%92%E6%94%BB%E7%95%A5/</guid>
       <description>&lt;p&gt;不辭職，光用下班零碎時間進修、精通技藝&lt;br&gt;&#xA;利用碎片時間，達到最大成效&lt;/p&gt;</description>
     </item>
     <item>
       <title>[閱讀] 我已經夠努力了，你還要我怎麼樣？</title>
-      <link>https://blog.ray247k.com/blog/202205-%E6%88%91%E5%B7%B2%E7%B6%93%E5%A4%A0%E5%8A%AA%E5%8A%9B%E4%BA%86%E4%BD%A0%E9%82%84%E8%A6%81%E6%88%91%E6%80%8E%E9%BA%BC%E6%A8%A3/</link>
+      <link>http://localhost:1313/blog/202205-%E6%88%91%E5%B7%B2%E7%B6%93%E5%A4%A0%E5%8A%AA%E5%8A%9B%E4%BA%86%E4%BD%A0%E9%82%84%E8%A6%81%E6%88%91%E6%80%8E%E9%BA%BC%E6%A8%A3/</link>
       <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/blog/202205-%E6%88%91%E5%B7%B2%E7%B6%93%E5%A4%A0%E5%8A%AA%E5%8A%9B%E4%BA%86%E4%BD%A0%E9%82%84%E8%A6%81%E6%88%91%E6%80%8E%E9%BA%BC%E6%A8%A3/</guid>
+      <guid>http://localhost:1313/blog/202205-%E6%88%91%E5%B7%B2%E7%B6%93%E5%A4%A0%E5%8A%AA%E5%8A%9B%E4%BA%86%E4%BD%A0%E9%82%84%E8%A6%81%E6%88%91%E6%80%8E%E9%BA%BC%E6%A8%A3/</guid>
       <description>&lt;p&gt;燃燒殆盡！有學歷、沒薪水，物價狂飆、自我價值感直落&lt;br&gt;&#xA;沒事幹嘛過得苦哈哈？錢錢就是要變成喜歡的形狀！&lt;br&gt;&#xA;別人的老闆，總是不會令人失望&amp;hellip;我老闆讓人每天都想辭職！&lt;/p&gt;</description>
     </item>
     <item>
       <title>ksonSOUCHOU2 Line 貼圖內容翻譯</title>
-      <link>https://blog.ray247k.com/blog/202204-kson-souchou2-line-sticker-translate/</link>
+      <link>http://localhost:1313/blog/202204-kson-souchou2-line-sticker-translate/</link>
       <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/blog/202204-kson-souchou2-line-sticker-translate/</guid>
+      <guid>http://localhost:1313/blog/202204-kson-souchou2-line-sticker-translate/</guid>
       <description>&lt;p&gt;單純自己買了結果總是記不住那個是哪個，所以透過翻譯一遍讓自己記得&lt;br&gt;&#xA;真的找不到的時候也可以拿來當小抄看&lt;/p&gt;</description>
     </item>
     <item>
       <title>[閱讀] 住房自由的人生</title>
-      <link>https://blog.ray247k.com/blog/202110-%E4%BD%8F%E6%88%BF%E8%87%AA%E7%94%B1%E7%9A%84%E4%BA%BA%E7%94%9F/</link>
+      <link>http://localhost:1313/blog/202110-%E4%BD%8F%E6%88%BF%E8%87%AA%E7%94%B1%E7%9A%84%E4%BA%BA%E7%94%9F/</link>
       <pubDate>Sun, 03 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/blog/202110-%E4%BD%8F%E6%88%BF%E8%87%AA%E7%94%B1%E7%9A%84%E4%BA%BA%E7%94%9F/</guid>
+      <guid>http://localhost:1313/blog/202110-%E4%BD%8F%E6%88%BF%E8%87%AA%E7%94%B1%E7%9A%84%E4%BA%BA%E7%94%9F/</guid>
       <description>&lt;p&gt;房地產是許多人一生中最昂貴的資產&lt;br&gt;&#xA;面對這麼重大的決策，絕對不能憑直覺、靠運氣&lt;/p&gt;</description>
     </item>
     <item>
       <title>桐生可可畢業 - 談談 VTuber</title>
-      <link>https://blog.ray247k.com/blog/202107-hololive-4gen-kiryu-coco-graduate/</link>
+      <link>http://localhost:1313/blog/202107-hololive-4gen-kiryu-coco-graduate/</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/blog/202107-hololive-4gen-kiryu-coco-graduate/</guid>
+      <guid>http://localhost:1313/blog/202107-hololive-4gen-kiryu-coco-graduate/</guid>
       <description>&lt;p&gt;藉著這次會長畢業，來談談我自己對 VTuber 的一些想法&lt;br&gt;&#xA;為什麼會開始看 VTuber？為什麼 VTuber 吸引人？為什麼不只看一個就好？&lt;br&gt;&#xA;還有最後是一些個人的心得&lt;/p&gt;</description>
     </item>
     <item>
       <title>六個罐子理財法</title>
-      <link>https://blog.ray247k.com/blog/202106-six-jars-money-management-system/</link>
+      <link>http://localhost:1313/blog/202106-six-jars-money-management-system/</link>
       <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/blog/202106-six-jars-money-management-system/</guid>
+      <guid>http://localhost:1313/blog/202106-six-jars-money-management-system/</guid>
       <description>&lt;p&gt;六個罐子理財法出自 &lt;u&gt;T．哈福．艾克&lt;/u&gt; 所寫的「有錢人想的和你不一樣」一書中&lt;br&gt;&#xA;是世界上最簡單的理財方法，可輕易融入生活&lt;br&gt;&#xA;在簡單的背後卻結合了多種有效的理財法，人人都可以上手&lt;/p&gt;</description>
     </item>
     <item>
       <title>自我介紹的技術</title>
-      <link>https://blog.ray247k.com/blog/202105-how-to-introduction-yourself/</link>
+      <link>http://localhost:1313/blog/202105-how-to-introduction-yourself/</link>
       <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/blog/202105-how-to-introduction-yourself/</guid>
+      <guid>http://localhost:1313/blog/202105-how-to-introduction-yourself/</guid>
       <description>&lt;p&gt;無法讓觀眾產生迴響的人，介紹的是【自己】&lt;br&gt;&#xA;可以打動觀眾的人，介紹的是【未來】&lt;/p&gt;</description>
     </item>
     <item>
       <title>[閱讀紀錄] 賺錢，更賺自由的 FIRE 理財族</title>
-      <link>https://blog.ray247k.com/blog/202104-playing-with-fire-financial-independence-retire-early/</link>
+      <link>http://localhost:1313/blog/202104-playing-with-fire-financial-independence-retire-early/</link>
       <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/blog/202104-playing-with-fire-financial-independence-retire-early/</guid>
+      <guid>http://localhost:1313/blog/202104-playing-with-fire-financial-independence-retire-early/</guid>
       <description>&lt;p&gt;很多人的夢想是邁向財務自由，擺脫被生活綁住的生活。但是要存多少錢才能稱為財富自由呢？一千萬？兩千萬？&lt;br&gt;&#xA;真正的問題是「錢與人生的關係」弄清楚這點，可能不需要這麼多錢就可以退休&lt;/p&gt;</description>
     </item>
     <item>
       <title>[閱讀紀錄] 任何人都適用的完美學習法</title>
-      <link>https://blog.ray247k.com/blog/202103-learning-skill-for-everyone/</link>
+      <link>http://localhost:1313/blog/202103-learning-skill-for-everyone/</link>
       <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/blog/202103-learning-skill-for-everyone/</guid>
+      <guid>http://localhost:1313/blog/202103-learning-skill-for-everyone/</guid>
       <description>&lt;p&gt;從小不停的考試，你真的掌握了學習的方法嗎？真的有任何人都適用的完美學習法嗎？如果有，那又該如何掌握呢？&lt;/p&gt;</description>
     </item>
   </channel>

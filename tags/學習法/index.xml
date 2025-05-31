@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>學習法 on 西西里剛好濃</title>
-    <link>https://blog.ray247k.com/tags/%E5%AD%B8%E7%BF%92%E6%B3%95/</link>
+    <link>http://localhost:1313/tags/%E5%AD%B8%E7%BF%92%E6%B3%95/</link>
     <description>Recent content in 學習法 on 西西里剛好濃</description>
     <generator>Hugo</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.ray247k.com/tags/%E5%AD%B8%E7%BF%92%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E5%AD%B8%E7%BF%92%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[閱讀] 英語自學王</title>
+      <link>http://localhost:1313/blog/202212-%E8%8B%B1%E8%AA%9E%E8%87%AA%E5%AD%B8%E7%8E%8B/</link>
+      <pubDate>Sun, 18 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/202212-%E8%8B%B1%E8%AA%9E%E8%87%AA%E5%AD%B8%E7%8E%8B/</guid>
+      <description>&lt;p&gt;你學英語多久了？為什麼要學英語？為什麼別人滑手機，你在背單字？&lt;br&gt;&#xA;為什麼人家在追劇，你在讀例句？&lt;br&gt;&#xA;自學、補習、家教，無論選擇哪一條路，最終，你都必須成為一位自學者&lt;/p&gt;</description>
+    </item>
     <item>
       <title>[閱讀] 下班後1小時的極速學習攻略</title>
-      <link>https://blog.ray247k.com/blog/202206-%E4%B8%8B%E7%8F%AD%E5%BE%8C1%E5%B0%8F%E6%99%82%E7%9A%84%E6%A5%B5%E9%80%9F%E5%AD%B8%E7%BF%92%E6%94%BB%E7%95%A5/</link>
+      <link>http://localhost:1313/blog/202206-%E4%B8%8B%E7%8F%AD%E5%BE%8C1%E5%B0%8F%E6%99%82%E7%9A%84%E6%A5%B5%E9%80%9F%E5%AD%B8%E7%BF%92%E6%94%BB%E7%95%A5/</link>
       <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/blog/202206-%E4%B8%8B%E7%8F%AD%E5%BE%8C1%E5%B0%8F%E6%99%82%E7%9A%84%E6%A5%B5%E9%80%9F%E5%AD%B8%E7%BF%92%E6%94%BB%E7%95%A5/</guid>
+      <guid>http://localhost:1313/blog/202206-%E4%B8%8B%E7%8F%AD%E5%BE%8C1%E5%B0%8F%E6%99%82%E7%9A%84%E6%A5%B5%E9%80%9F%E5%AD%B8%E7%BF%92%E6%94%BB%E7%95%A5/</guid>
       <description>&lt;p&gt;不辭職，光用下班零碎時間進修、精通技藝&lt;br&gt;&#xA;利用碎片時間，達到最大成效&lt;/p&gt;</description>
     </item>
     <item>
       <title>[閱讀紀錄] 任何人都適用的完美學習法</title>
-      <link>https://blog.ray247k.com/blog/202103-learning-skill-for-everyone/</link>
+      <link>http://localhost:1313/blog/202103-learning-skill-for-everyone/</link>
       <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://blog.ray247k.com/blog/202103-learning-skill-for-everyone/</guid>
+      <guid>http://localhost:1313/blog/202103-learning-skill-for-everyone/</guid>
       <description>&lt;p&gt;從小不停的考試，你真的掌握了學習的方法嗎？真的有任何人都適用的完美學習法嗎？如果有，那又該如何掌握呢？&lt;/p&gt;</description>
     </item>
   </channel>
