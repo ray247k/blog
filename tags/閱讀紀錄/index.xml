@@ -2,38 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>閱讀紀錄 on 西西里剛好濃</title>
-    <link>http://localhost:1313/tags/%E9%96%B1%E8%AE%80%E7%B4%80%E9%8C%84/</link>
+    <link>https://blog.ray247k.com/tags/%E9%96%B1%E8%AE%80%E7%B4%80%E9%8C%84/</link>
     <description>Recent content in 閱讀紀錄 on 西西里剛好濃</description>
     <generator>Hugo</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 24 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E9%96%B1%E8%AE%80%E7%B4%80%E9%8C%84/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>[閱讀紀錄] 打造理想人生的習慣大全</title>
-      <link>http://localhost:1313/blog/202410-%E6%89%93%E9%80%A0%E7%90%86%E6%83%B3%E4%BA%BA%E7%94%9F%E7%9A%84%E7%BF%92%E6%85%A3%E5%A4%A7%E5%85%A8/</link>
-      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/202410-%E6%89%93%E9%80%A0%E7%90%86%E6%83%B3%E4%BA%BA%E7%94%9F%E7%9A%84%E7%BF%92%E6%85%A3%E5%A4%A7%E5%85%A8/</guid>
-      <description>&lt;p&gt;許多人「知道」成功取決於 90％的好習慣，只是往往想做卻「做不到」&lt;br&gt;&#xA;事實上，養成好習慣的關鍵不在意志力，而在某些隱形的開關！&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>[閱讀紀錄] 超級思維</title>
-      <link>http://localhost:1313/blog/202207-%E8%B6%85%E7%B4%9A%E6%80%9D%E7%B6%AD/</link>
-      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/202207-%E8%B6%85%E7%B4%9A%E6%80%9D%E7%B6%AD/</guid>
-      <description>&lt;p&gt;解決一般性問題，考驗你的 IQ&lt;br&gt;&#xA;要不斷解決各種艱難問題，你需要「超級思維」&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Fri, 02 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.ray247k.com/tags/%E9%96%B1%E8%AE%80%E7%B4%80%E9%8C%84/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[閱讀紀錄] 賺錢，更賺自由的 FIRE 理財族</title>
-      <link>http://localhost:1313/blog/202104-playing-with-fire-financial-independence-retire-early/</link>
+      <link>https://blog.ray247k.com/blog/202104-playing-with-fire-financial-independence-retire-early/</link>
       <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/202104-playing-with-fire-financial-independence-retire-early/</guid>
+      <guid>https://blog.ray247k.com/blog/202104-playing-with-fire-financial-independence-retire-early/</guid>
       <description>&lt;p&gt;很多人的夢想是邁向財務自由，擺脫被生活綁住的生活。但是要存多少錢才能稱為財富自由呢？一千萬？兩千萬？&lt;br&gt;&#xA;真正的問題是「錢與人生的關係」弄清楚這點，可能不需要這麼多錢就可以退休&lt;/p&gt;</description>
     </item>
     <item>
       <title>[閱讀紀錄] 任何人都適用的完美學習法</title>
-      <link>http://localhost:1313/blog/202103-learning-skill-for-everyone/</link>
+      <link>https://blog.ray247k.com/blog/202103-learning-skill-for-everyone/</link>
       <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/202103-learning-skill-for-everyone/</guid>
+      <guid>https://blog.ray247k.com/blog/202103-learning-skill-for-everyone/</guid>
       <description>&lt;p&gt;從小不停的考試，你真的掌握了學習的方法嗎？真的有任何人都適用的完美學習法嗎？如果有，那又該如何掌握呢？&lt;/p&gt;</description>
     </item>
   </channel>
